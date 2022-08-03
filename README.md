@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @om-08
 - 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projets 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ethrough email-sohamjha0811@gmail.com
 
 <!---
