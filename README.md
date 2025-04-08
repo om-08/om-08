@@ -9,13 +9,9 @@ I'm a passionate Data Engineer and Machine Learning Expert with a strong backgro
 - **Programming Languages:** Python, SQL, Scala
 - **Data Engineering:** Apache Spark, Hadoop, Airflow, ETL Pipelines
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms:** AWS, Azure
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-
-## 📈 GitHub Stats
-
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-08&show_icons=true&theme=radical)
+- **Databases:** MySQL,
+- **Cloud Platforms:** AWS, Azure , heroku
+- **Visualization:** Matplotlib, Seaborn
 
 ## 🔥 Top Languages
 
@@ -30,37 +26,12 @@ I'm a passionate Data Engineer and Machine Learning Expert with a strong backgro
 ## 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/sohamjha](#)
-- **Twitter:** [@Om_0308](https://twitter.com/Om_0308)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:sohamjha0811@gmail.com)
 
 ## 💡 Quote to Live By
 
-> "Data is the new oil. It's valuable, but if unrefined it cannot really be used." – Clive Humby
+> "Data is the new oil. It's valuable, but if unrefined it cannot be used." – Clive Humby
 
-## 🎯 Portfolio Projects
-
-### Project 1: Real-time Data Processing Pipeline
-
-- **Description:** Developed a real-time data processing pipeline using Apache Kafka and Spark Streaming to handle high-velocity data from IoT devices.
-- **Technologies:** Apache Kafka, Spark Streaming, Python
-- **Repository:** [Real-time Data Pipeline](#)
-
-### Project 2: Predictive Maintenance using Machine Learning
-
-- **Description:** Implemented predictive maintenance models to forecast equipment failures, reducing downtime by 30%.
-- **Technologies:** Python, Scikit-Learn, TensorFlow
-- **Repository:** [Predictive Maintenance](#)
-
-### Project 3: Data Warehouse Optimization
-
-- **Description:** Optimized data warehouse performance by redesigning schema and indexing strategies, resulting in 50% faster query performance.
-- **Technologies:** SQL, AWS Redshift
-- **Repository:** [Data Warehouse Optimization](#)
-
-## 🏆 Achievements
-
-- **Certified Data Engineer Professional** – [Issuing Organization](#)
-- **Winner of Data Science Hackathon 2024** – [Event Name](#)
 
 ## 🎨 GitHub Profile Views
 
