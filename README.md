@@ -25,7 +25,7 @@ I'm a passionate Data Engineer and Machine Learning Expert with a strong backgro
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/soham-jha-528a52240/](#https://www.linkedin.com/in/soham-jha-528a52240/)
+- **LinkedIn:** [linkedin.com/in/soham-jha-528a52240](https://www.linkedin.com/in/soham-jha-528a52240/)
 - **Email:** [sohamjha0811@gmail.com](mailto:sohamjha0811@gmail.com)
 
 ## 💡 Quote to Live By
